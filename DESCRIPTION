@@ -1,0 +1,7 @@
+Package: argparseR
+Version: 0.1
+Date: 2018-06-20
+Title: Parse flags 
+Description: Parse flags in arguments of Rscript and returns values
+Author: Andrea Blasco <ablasco@fas.harvard.edu>
+RoxygenNote: 6.0.1
