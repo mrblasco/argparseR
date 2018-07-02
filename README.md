@@ -4,7 +4,7 @@
 
 # Usage 
 
-Write a script with the following commands and save it as `myscript.R`
+Here's an example. Write a script with the following commands and save it as `myscript.R`
 
 ```{r}
 args <- commandArgs(trailingOnly = TRUE)
