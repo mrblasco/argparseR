@@ -24,7 +24,7 @@ Rscript myscript.R --min 12 --max 23
 
 ```
 library(devtools)
-install_github("ablasco/argparseR")
+install_github("mrblasco/argparseR")
 ```
 
 [argparse]: https://cran.r-project.org/web/packages/argparse/index.html
